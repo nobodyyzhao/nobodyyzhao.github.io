@@ -63,6 +63,11 @@ video: https://www.bilibili.com/video/BV13y4y1u7Wp/?vd_source=50ddf3be9ebf2ccf0e
 https://csrankings.org/#/fromyear/2012/toyear/2022/index?all&us
 
 
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
 
 
