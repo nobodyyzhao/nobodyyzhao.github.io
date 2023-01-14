@@ -39,4 +39,4 @@ Ying Zhao, Tao Ye, Yongzhuang Wei
 Ying Zhao, Yongzhuang Wei, Senshan Pan
 
 [A New Design Criterion of S-box: CN201611265264.5] 
-Yongzhuang Wei, \textbf{Ying Zhao}, Tao Ye, Jiali Shi, Yong Ding
+Yongzhuang Wei, Ying Zhao, Tao Ye, Jiali Shi, Yong Ding
