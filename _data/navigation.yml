@@ -6,16 +6,16 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-    - title: "Resources"
+  - title: "Resources"
     url: /resources/  
   
-     - title: "People"
+  - title: "People"
     url: /people/  
     
-         - title: "Blog"
+  - title: "Blog"
     url: /blog/  
     
-   - title: "Miscellaneous"
+  - title: "Miscellaneous"
     url: /misc/    
     
     
