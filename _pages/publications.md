@@ -25,8 +25,7 @@ Ying Zhao and Jinjun Chen. To appear in .
 [Scenario-Based Adaptations of Differential Privacy: A Technical Survey]( )  
 Ying Zhao, Jia Tina Du, Jinjun Chen. To appear in .
 
-[Geo-Ellipse-Indistinguishability: Community-Aware Location Privacy Protection for Directional Distribution]
-(https://ieeexplore.ieee.org/document/9833273)
+[Geo-Ellipse-Indistinguishability: Community-Aware Location Privacy Protection for Directional Distribution](https://ieeexplore.ieee.org/document/9833273)
 Ying Zhao, Dong Yuan, Jia Tina Du,  Jinjun Chen
 
 [Vector-Indistinguishability: Location Dependency Based Privacy Protection for Successive Location Data](https://ieeexplore.ieee.org/document/10016678)
