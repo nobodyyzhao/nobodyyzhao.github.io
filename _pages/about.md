@@ -5,12 +5,12 @@ excerpt: "ShortBio"
 author_profile: true
 redirect_from: 
   - /about/
-  - /about.html
+  - /about.html    [Prof. Jinjun Chen](http://www.swinflow.org/jchen/)
 ---
-I am a postdoc at Swinburne University under the supervision of Prof. Jinjun Chen. During my PhD I was advised by Prof. Jinjun Chen at Swinburne University of Technology. 
+I am a postdoc at Swinburne University under the supervision of [Prof. Jinjun Chen](http://www.swinflow.org/jchen/). During my PhD I was advised by Prof. Jinjun Chen at Swinburne University of Technology. 
 I focus on Differential Privacy.
 
-Before that I got a Master degree advised by Prof. Yongzhuang Wei from Guilin
+Before that I got a Master degree advised by [Prof. Yongzhuang Wei](https://dblp.org/pid/96/9555.html) from Guilin
 University of Electronic Technology, China and
 obtained Bachelor of Science in Information Security
 from Xi'an University of Posts and Telecommunications.
