@@ -6,7 +6,7 @@ author_profile: true
 ---
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=6e-e6Q4AAAAJ&hl=zh-CN).
 
-## Differential Privacy 
+## Journal Papers
 
 [Privacy and Fairness Analysis in the Post-Processed Differential Privacy Framework]( )  
 Ying Zhao and Jinjun Chen. To appear in .
@@ -24,9 +24,6 @@ Ying Zhao and Jinjun Chen
 [A Survey on Differential Privacy for Unstructured Data Content](https://dl.acm.org/doi/abs/10.1145/3490237)
 Ying Zhao, Jinjun Chen
 
-
-## Cryptography
-
 [Security Analysis of Several Cryptographically Strong S-boxes](http://www.joca.cn/EN/abstract/abstract20997.shtml)
 Ying Zhao, Tao Ye, Yongzhuang Wei
 
@@ -35,3 +32,8 @@ Ying Zhao, Yongzhuang Wei, Senshan Pan
 
 A New Design Criterion of S-box: CN201611265264.5
 Yongzhuang Wei, Ying Zhao, Tao Ye, Jiali Shi, Yong Ding
+
+
+## Conference Papers
+
+
