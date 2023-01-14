@@ -3,7 +3,11 @@ layout: archive
 title: ""
 permalink: /resources/
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
+
 ## Courses Taken Recently
 - Statistical learning, 
 Fan Yang, Tsing Hua University  
