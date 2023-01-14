@@ -6,16 +6,6 @@ author_profile: true
 ---
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=6e-e6Q4AAAAJ&hl=zh-CN) .
 
-
-
-
----
-layout: archive
-title: ""
-permalink: /publications/
-author_profile: true
----
-
 ## Differential Privacy 
 
 [Privacy and Fairness Analysis in the Post-Processed Differential Privacy Framework]( )  
