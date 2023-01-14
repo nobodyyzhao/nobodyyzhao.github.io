@@ -5,7 +5,7 @@ permalink: /people/
 author_profile: true
 ---
 ## Students
-The Circle of Life  –  Lion King 
+The Circle of Life  -  Lion King 
 |                  | Research Area |                                                              |
 | --------         | ------        | ------------------------------------------------------------ |
 | [](#)    |  Security and Privacy         |  |
