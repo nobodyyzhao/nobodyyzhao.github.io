@@ -8,8 +8,8 @@ There is always one thing to be grateful for - that one is one’s self & not so
 
 ## POEMS
 ### Emily Dickson
-- I'm Nobody! Who are you?   https://en.wikipedia.org/wiki/I%27m_Nobody!_Who_are_you%3F
-- ‘Hope’ is the thing with feathers  https://www.poetryfoundation.org/poems/42889/hope-is-the-thing-with-feathers-314
+- I'm Nobody! Who are you?   [https://en.wikipedia.org/wiki/I%27m_Nobody!_Who_are_you%3F](https://en.wikipedia.org/wiki/I%27m_Nobody!_Who_are_you%3F)
+- ‘Hope’ is the thing with feathers  [https://www.poetryfoundation.org/poems/42889/hope-is-the-thing-with-feathers-314](https://www.poetryfoundation.org/poems/42889/hope-is-the-thing-with-feathers-314)
 - The soul selects her own society   https://en.wikisource.org/wiki/Page:Emily_Dickinson_Poems_%281890%29.djvu/34 
 - Had I not seen the Sun  https://en.wikisource.org/wiki/Had_I_not_seen_the_Sun 
 - To one unknown  https://en.wikisource.org/wiki/Page:Poetry,_a_magazine_of_verse,_Volume_1_%28October_1912-March_1913%29.djvu/14
