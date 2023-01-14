@@ -19,18 +19,23 @@ https://math.mit.edu/~gs/
 Interactive Linear Algebra    https://textbooks.math.gatech.edu/ila/overview.html
 
 ## Books
--   The Algorithmic Foundations of Differential Privacy, Cynthia Dwork and Aaron Roth
+-   The Algorithmic Foundations of Differential Privacy, 
+Cynthia Dwork and Aaron Roth
 https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf  
+
 - The Complexity of Differential Privacy,
 Salil Vadhan 
 https://privacytools.seas.harvard.edu/files/privacytools/files/complexityprivacy_1.pdf 
+
 - Programming Differential Privacy,
 Joe Near et al. https://programming-dp.com/
+
 - The 7th BIU Winter School on Cryptography,   sub: Differential Privacy: From Theory to Practice  
 https://cyber.biu.ac.il/event/the-7th-biu-winter-school/   
 
 
-Differential Privacy: From Theory to Practice, Ninghui Li  https://link.springer.com/book/10.1007/978-3-031-02350-7   
+- Differential Privacy: From Theory to Practice, 
+Ninghui Li  https://link.springer.com/book/10.1007/978-3-031-02350-7   
 
 - Introduction to Modern Cryptography (2nd edition),   
 Katz and Lindell    
