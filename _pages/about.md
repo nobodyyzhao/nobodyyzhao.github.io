@@ -10,12 +10,12 @@ redirect_from:
 I am a postdoc at Swinburne University under the supervision of Prof. Jinjun Chen. During my PhD I was advised by Prof. Jinjun Chen at Swinburne University of Technology. 
 I focus on Differential Privacy.
 
-Before that I got an Master degree advised by Prof. Yongzhuang Wei from Guilin
+Before that I got a Master degree advised by Prof. Yongzhuang Wei from Guilin
 University of Electronic Technology, China and
 obtained Bachelor of Science in Information Security
 from Xi'an University of Posts and Telecommunications.
 
-## My research Interests
+## My Research Interests
 Differential Privacy (DP): DP Theory and DP Adaptations in Scenarios. Objective: to improve the trade-offs
 between privacy and accuracy, to study the interplay between DP and other ethical
 characteristics including security and fairness. 
