@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Misc"
+title: "We must know. We will know. by David Hilbert"
 permalink: /misc/
 author_profile: true
 ---
