@@ -15,10 +15,3 @@ I was a Teaching Assistant for the following courses:
 
 
 
-
-
-#{% include base_path %}
-
-#{% for post in site.teaching reversed %}
-#{% include archive-single.html %}
-#{% endfor %}
